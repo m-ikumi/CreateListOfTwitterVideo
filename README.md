@@ -139,6 +139,31 @@ list.lstはメールで送信される本文の内容と同一です。また、
 全ての設定が問題なければ送信元に指定したメールアドレスにメールが送信されます。  
 ![demo3](https://user-images.githubusercontent.com/60560534/73703833-a4fae900-4734-11ea-9bc9-952fea3111be.jpg)
 
+## How to share videos/動画の共有の方法
+
+1. Double-click the URL of the video in the email to display it in the browser.  
+メール内の動画のURLをダブルクリックしてブラウザで表示します。
+1. When the video is displayed on Twitter, click the share button below the video.  
+Twitterで動画が表示されたら動画の下にある共有ボタンをクリックします。
+![how-to01](https://user-images.githubusercontent.com/60560534/73707231-4175b900-473e-11ea-9889-c37273afcfe0.jpg)
+1. When the pull-down opens, click "Copy Tweet Link" at the bottom.  
+プルダウンが開いたら一番下の「ツイートのリンクをコピー」をクリックします。
+![how-to02](https://user-images.githubusercontent.com/60560534/73707233-4470a980-473e-11ea-87a5-58ad6cba1021.jpg)
+1. Next, paste the copied URL into the new tweet field of your account.  
+次に、自分のアカウントの新規ツイート欄にコピーしたURLを貼り付けます。
+1. Delete the characters after "?" At the end of the pasted URL.  
+貼り付けたURLの末尾の"?"以降を削除します。
+![how-to04](https://user-images.githubusercontent.com/60560534/73707423-e1cbdd80-473e-11ea-88a3-62ec17454cd4.jpg)
+1. Add "/video/ 1" to the end of the URL.  
+URLの末尾に"/video/1"を付けます。
+![how-to03](https://user-images.githubusercontent.com/60560534/73707235-46d30380-473e-11ea-9e35-52320a0b99ed.jpg)
+1. If you want to add a comment or hashtag, enter it below the URL.  
+コメントやハッシュタグを添えたい場合はURLの下に入力します。
+1. After that, if you tweet as it is, it will be a shared tweet.  
+あとはそのままツイートすれば共有ツイートとなります。
+
+* If you copy the URL in the mail as it is, you do not need to click the share button or delete the end and add it, but in that case it is not recommended because you can not check what kind of video it is.  
+※メール内のURLをそのままコピーすれば共有ボタンをクリックしたり、末尾を削除して付け加えたりする必要はありませんが、その場合はどんな動画なのか確認できませんのでおすすめしません。
 
 # Note
 
