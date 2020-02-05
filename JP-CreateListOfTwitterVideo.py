@@ -34,7 +34,7 @@ class MyError(Exception):
 def sendmail(from_addr, to_addrs, body_txt):
     msg = MIMEMultipart()
     msg["Subject"] = subject
-    msg['From'] = '{} <{}>'.format(Header(gmail_account_nm.encode(jp), jp).encode(), gmail_account)
+    msg['From'] = '{} <{}>'.format(Header(gmail_account_nm).encode(), gmail_account)
     msg['To'] = mail_to
 
     body = MIMEText(body_txt)
